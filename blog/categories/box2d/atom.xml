@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Box2d | Joan Perals]]></title>
+  <link href="http://joanperals.com/blog/categories/box2d/atom.xml" rel="self"/>
+  <link href="http://joanperals.com/"/>
+  <updated>2015-02-25T23:01:27+01:00</updated>
+  <id>http://joanperals.com/</id>
+  <author>
+    <name><![CDATA[Joan Perals]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Wallball]]></title>
+    <link href="http://joanperals.com/2013/wallball/"/>
+    <updated>2013-07-20T23:19:04+02:00</updated>
+    <id>http://joanperals.com/2013/wallball</id>
+    <content type="html"><![CDATA[<p>Wallball is a simple gesture-based game made with Box2D and Processing.</p>
+
+<!--more-->
+
+
+<p>Draw lines which will become &ldquo;walls&rdquo;. These &ldquo;walls&rdquo; need to touch one ball of each colour (red, green and blue) in order to disappear. When a wall disappears it will give you points.</p>
+
+<p>But be careful to not get the balls trapped between your walls and the top of the screen! When this happens the game will end.</p>
+
+<p><a href="https://github.com/jperals/wallball">Read more</a> or <a href="http://jperals.github.io/wallball/">just play</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

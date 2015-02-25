@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Openframeworks | Joan Perals]]></title>
+  <link href="http://joanperals.com/blog/categories/openframeworks/atom.xml" rel="self"/>
+  <link href="http://joanperals.com/"/>
+  <updated>2015-02-25T23:01:27+01:00</updated>
+  <id>http://joanperals.com/</id>
+  <author>
+    <name><![CDATA[Joan Perals]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Terra Cognita]]></title>
+    <link href="http://joanperals.com/2013/terra-cognita/"/>
+    <updated>2013-11-15T00:27:21+01:00</updated>
+    <id>http://joanperals.com/2013/terra-cognita</id>
+    <content type="html"><![CDATA[<p>As I moved to Berlin in 2012 I started tracking my first movements in the city, so that I could visualize the process itself of gradually discovering a new place.</p>
+
+<!--more-->
+
+
+
+
+<iframe src="//player.vimeo.com/video/79570556" height="632" width="100%" allowfullscreen="" frameborder="0"></iframe>
+
+
+<p>The speed at which my coordinates move is mapped into different colors, so one can easily guess if I was walking (green), taking the train or a car (red), the tram (purple) or even riding a bike (blue).</p>
+
+<p>The code is at <a href="https://github.com/jperals/terra-cognita">https://github.com/jperals/terra-cognita</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

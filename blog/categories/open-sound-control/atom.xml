@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Open Sound Control | Joan Perals]]></title>
+  <link href="http://joanperals.com/blog/categories/open-sound-control/atom.xml" rel="self"/>
+  <link href="http://joanperals.com/"/>
+  <updated>2015-02-25T23:01:27+01:00</updated>
+  <id>http://joanperals.com/</id>
+  <author>
+    <name><![CDATA[Joan Perals]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Garbuix]]></title>
+    <link href="http://joanperals.com/2015/garbuix/"/>
+    <updated>2015-02-08T18:34:00+01:00</updated>
+    <id>http://joanperals.com/2015/garbuix</id>
+    <content type="html"><![CDATA[<p>We have a set of points randomly distributed on a 2D plane. Just by combining a set of rules on the way in which they should move, interact with each other and be displayed, we can go through a rich and diverse set of visual experiences.</p>
+
+<!--more-->
+
+
+<h2>Example screenshots</h2>
+
+<p><img src="/images/2015/02/screenshot-2015-02-08.14.34.21-001261.png" alt="Screenshot" /></p>
+
+<p><img src="/images/2015/02/screenshot-2015-02-08.14.20.01-007048.png" alt="Screenshot" /></p>
+
+<p><img src="/images/2015/02/screenshot-2015-02-08.14.58.17-015821.png" alt="Screenshot" /></p>
+
+<p><img src="/images/2015/02/screenshot-2015-02-08.14.20.45-008790.png" alt="Screenshot" /></p>
+
+<p><img src="/images/2015/02/screenshot-2015-02-08.15.13.51-029430.png" alt="Screenshot" /></p>
+
+<p><img src="/images/2015/02/screenshot-2015-02-08.15.17.49-000892.png" alt="Screenshot" /></p>
+
+<p><a href="http://github.com/jperals/garbuix">More on GitHub</a></p>
+]]></content>
+  </entry>
+  
+</feed>

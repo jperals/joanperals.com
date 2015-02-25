@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Processing | Joan Perals]]></title>
+  <link href="http://joanperals.com/blog/categories/processing/atom.xml" rel="self"/>
+  <link href="http://joanperals.com/"/>
+  <updated>2015-02-25T23:01:27+01:00</updated>
+  <id>http://joanperals.com/</id>
+  <author>
+    <name><![CDATA[Joan Perals]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Garbuix]]></title>
+    <link href="http://joanperals.com/2015/garbuix/"/>
+    <updated>2015-02-08T18:34:00+01:00</updated>
+    <id>http://joanperals.com/2015/garbuix</id>
+    <content type="html"><![CDATA[<p>We have a set of points randomly distributed on a 2D plane. Just by combining a set of rules on the way in which they should move, interact with each other and be displayed, we can go through a rich and diverse set of visual experiences.</p>
+
+<!--more-->
+
+
+<h2>Example screenshots</h2>
+
+<p><img src="/images/2015/02/screenshot-2015-02-08.14.34.21-001261.png" alt="Screenshot" /></p>
+
+<p><img src="/images/2015/02/screenshot-2015-02-08.14.20.01-007048.png" alt="Screenshot" /></p>
+
+<p><img src="/images/2015/02/screenshot-2015-02-08.14.58.17-015821.png" alt="Screenshot" /></p>
+
+<p><img src="/images/2015/02/screenshot-2015-02-08.14.20.45-008790.png" alt="Screenshot" /></p>
+
+<p><img src="/images/2015/02/screenshot-2015-02-08.15.13.51-029430.png" alt="Screenshot" /></p>
+
+<p><img src="/images/2015/02/screenshot-2015-02-08.15.17.49-000892.png" alt="Screenshot" /></p>
+
+<p><a href="http://github.com/jperals/garbuix">More on GitHub</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Emmonsters]]></title>
+    <link href="http://joanperals.com/2014/emmonstres/"/>
+    <updated>2014-10-15T00:00:00+02:00</updated>
+    <id>http://joanperals.com/2014/emmonstres</id>
+    <content type="html"><![CDATA[<p>Generative creatures dedicated to my niece Emma.</p>
+
+<!--more-->
+
+
+<p><a href="https://github.com/jperals/emmonsters">More on GitHub</a></p>
+
+<h2>Example screenshots</h2>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Big Bother]]></title>
+    <link href="http://joanperals.com/2014/big-bother/"/>
+    <updated>2014-05-20T22:30:18+02:00</updated>
+    <id>http://joanperals.com/2014/big-bother</id>
+    <content type="html"><![CDATA[<p><em>Big Bother</em> is watching you&hellip; and you too.</p>
+
+<!--more-->
+
+
+<p><em>Big Bother</em> (sic) is a generative sketch that features an eye on a large screen. This eye has the ability to mutate a little when it detects movement around: a new pupil appears to follow every &ldquo;target&rdquo;, with the aim to follow each watcher individually.</p>
+
+<p>This piece is currently being displayed on a huge screen in the center of Madrid, as part of <a href="http://programalaplaza.medialab-prado.es/">MediaLab Prado&rsquo;s #ProgramaLaPlaza</a> call for projects.</p>
+
+<!--more-->
+
+
+
+
+<iframe src="//player.vimeo.com/video/100365334#t=31m09s?autoplay=0" height="632" width="100%" allowfullscreen="" frameborder="0"></iframe>
+
+
+<p>You can check and tweak the code <a href="http://programalaplaza.medialab-prado.es/sketch/view/975a0c44be49772e59f0d3872a8a618f">here</a>, and see other submitted projects <a href="http://programalaplaza.medialab-prado.es/static/2014.html">here</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Wallball]]></title>
+    <link href="http://joanperals.com/2013/wallball/"/>
+    <updated>2013-07-20T23:19:04+02:00</updated>
+    <id>http://joanperals.com/2013/wallball</id>
+    <content type="html"><![CDATA[<p>Wallball is a simple gesture-based game made with Box2D and Processing.</p>
+
+<!--more-->
+
+
+<p>Draw lines which will become &ldquo;walls&rdquo;. These &ldquo;walls&rdquo; need to touch one ball of each colour (red, green and blue) in order to disappear. When a wall disappears it will give you points.</p>
+
+<p>But be careful to not get the balls trapped between your walls and the top of the screen! When this happens the game will end.</p>
+
+<p><a href="https://github.com/jperals/wallball">Read more</a> or <a href="http://jperals.github.io/wallball/">just play</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

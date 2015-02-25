@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Angularjs | Joan Perals]]></title>
+  <link href="http://joanperals.com/blog/categories/angularjs/atom.xml" rel="self"/>
+  <link href="http://joanperals.com/"/>
+  <updated>2015-02-25T23:01:27+01:00</updated>
+  <id>http://joanperals.com/</id>
+  <author>
+    <name><![CDATA[Joan Perals]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Singlot]]></title>
+    <link href="http://joanperals.com/2015/singlot/"/>
+    <updated>2015-02-14T00:00:00+01:00</updated>
+    <id>http://joanperals.com/2015/singlot</id>
+    <content type="html"><![CDATA[<p>A proof of concept for visualized simultaneous translation.</p>
+
+<!--more-->
+
+
+
+
+<iframe src="//jperals.github.io/singlot" width="100%" height="700px"></iframe>
+
+
+<p><br/>
+<br/>
+<a href="//jperals.github.io/singlot">See at full size</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>
