@@ -4,7 +4,7 @@
   <title><![CDATA[Joan Perals]]></title>
   <link href="http://joanperals.com/atom.xml" rel="self"/>
   <link href="http://joanperals.com/"/>
-  <updated>2015-02-25T23:01:27+01:00</updated>
+  <updated>2015-08-30T22:55:45+02:00</updated>
   <id>http://joanperals.com/</id>
   <author>
     <name><![CDATA[Joan Perals]]></name>
@@ -23,7 +23,7 @@
 <!--more-->
 
 
-
+<p>To use it, click on a language tag, write something in it and click on the small triangle.</p>
 
 <iframe src="//jperals.github.io/singlot" width="100%" height="700px"></iframe>
 
@@ -39,10 +39,18 @@
     <link href="http://joanperals.com/2015/garbuix/"/>
     <updated>2015-02-08T18:34:00+01:00</updated>
     <id>http://joanperals.com/2015/garbuix</id>
-    <content type="html"><![CDATA[<p>We have a set of points randomly distributed on a 2D plane. Just by combining a set of rules on the way in which they should move, interact with each other and be displayed, we can go through a rich and diverse set of visual experiences.</p>
+    <content type="html"><![CDATA[<p>Exploring diverse patterns in 2D particle systems, using Processing.</p>
 
 <!--more-->
 
+
+<p><img src="http://joanperals.com/images/2015/08/Captura%20de%202015-08-30%2012-10-52.png" alt="Screenshot" /></p>
+
+<p>Garbuix is the combination of a Processing sketch with a web-based user interface to explore visually interesting behaviours of 2D systems.</p>
+
+<p>We have a set of points randomly distributed on a 2D plane. Just by combining a set of rules on the way in which they should move, interact with each other and be displayed, we can go through a rich and diverse set of visual experiences.</p>
+
+<p><a href="http://github.com/jperals/garbuix">More on GitHub</a></p>
 
 <h2>Example screenshots</h2>
 
@@ -57,8 +65,6 @@
 <p><img src="http://joanperals.com/images/2015/02/screenshot-2015-02-08.15.13.51-029430.png" alt="Screenshot" /></p>
 
 <p><img src="http://joanperals.com/images/2015/02/screenshot-2015-02-08.15.17.49-000892.png" alt="Screenshot" /></p>
-
-<p><a href="http://github.com/jperals/garbuix">More on GitHub</a></p>
 ]]></content>
   </entry>
   
@@ -72,9 +78,63 @@
 <!--more-->
 
 
+<p>Processing sketch that generates an entirely new teddy monster with one click.</p>
+
 <p><a href="https://github.com/jperals/emmonsters">More on GitHub</a></p>
 
 <h2>Example screenshots</h2>
+
+<div class="columns-4">
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.21.03.15-228163.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.21.03.25-228754.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.21.03.43-229841.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.21.03.49-230201.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.21.03.58-230735.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.21.04.00-230847.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.19.59.55-000509.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.19.59.59-000742.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.20.00.06-001109.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.20.00.33-002712.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.20.00.44-003390.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.20.00.47-003534.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.20.00.53-003886.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.20.01.03-004467.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.20.01.12-005045.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.20.01.15-005189.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.20.01.19-005441.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.20.01.27-005912.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.20.01.40-006640.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.20.58.02-209561.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.20.58.03-209641.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.20.58.11-210117.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.20.58.18-210518.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.20.58.41-211889.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.20.58.50-212397.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.20.59.24-214415.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.21.02.20-224981.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.21.02.33-225735.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.21.02.35-225818.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.21.02.38-226002.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.21.02.42-226271.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.21.02.52-226829.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.21.02.54-226969.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.21.02.57-227109.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.21.03.00-227274.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.21.03.03-227491.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.21.04.04-231102.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.21.13.14-000208.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.21.13.18-000445.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.21.13.21-000610.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.21.13.25-000853.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.21.13.27-000968.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.21.13.29-001056.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.21.13.38-001588.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.21.13.40-001691.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.21.13.46-002062.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.21.13.56-002645.png"/>
+    <img alt="Screenshot" title="Screenshot" src="http://joanperals.com/images/2015/08/screenshot-2015-08-28.21.14.14-003710.png"/>
+</div>
+
 ]]></content>
   </entry>
   
@@ -90,7 +150,7 @@
 
 <p><em>Big Bother</em> (sic) is a generative sketch that features an eye on a large screen. This eye has the ability to mutate a little when it detects movement around: a new pupil appears to follow every &ldquo;target&rdquo;, with the aim to follow each watcher individually.</p>
 
-<p>This piece is currently being displayed on a huge screen in the center of Madrid, as part of <a href="http://programalaplaza.medialab-prado.es/">MediaLab Prado&rsquo;s #ProgramaLaPlaza</a> call for projects.</p>
+<p>This piece was exhibited on a huge screen in the center of Madrid as part of <a href="http://programalaplaza.medialab-prado.es/">MediaLab Prado&rsquo;s #ProgramaLaPlaza</a> contest in 2014.</p>
 
 <!--more-->
 
